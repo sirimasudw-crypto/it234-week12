@@ -25,7 +25,7 @@
       "name": "ครัวซองต์",
       "price": 60,
       "emoji": "🥐",
-      "available": false,
+      "available": true,
       "tags": ["เบเกอรี่"]
     },
      {
@@ -33,7 +33,7 @@
       "name": "น้ำมะพร้าว",
       "price": 60,
       "emoji": "🥥",
-      "available": false,
+      "available": true,
       "tags": ["น้ำมะพร้าว","เย็น"]
      }
   ]
