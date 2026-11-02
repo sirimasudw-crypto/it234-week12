@@ -1,7 +1,7 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
-  "studentId": "6XXXXXXXXX",
+  "shopName": "lankafair",
+  "owner": "สิริมา สุดวิลัย",
+  "studentId": "1680707054",
   "ownerPhone": "081-234-5678",
   "products": [
     {
@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🍹",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -27,6 +27,14 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
-    }
+    },
+     {
+      "id": 4,
+      "name": "น้ำมะพร้าว",
+      "price": 60,
+      "emoji": "🥥",
+      "available": false,
+      "tags": ["น้ำมะพร้าว","เย็น"]
+     }
   ]
 }
